@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\mekrm\source\repos\Bjarne\DoubleSpitBack\main.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+  DoubleSpitBack.vcxproj -> C:\Users\mekrm\source\repos\Bjarne\Debug\DoubleSpitBack.exe
